@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Hero-Search-Comic/static/js/main.43b30f8d.chunk.js",
+    "main.js.map": "/Hero-Search-Comic/static/js/main.43b30f8d.chunk.js.map",
+    "runtime-main.js": "/Hero-Search-Comic/static/js/runtime-main.ade89721.js",
+    "runtime-main.js.map": "/Hero-Search-Comic/static/js/runtime-main.ade89721.js.map",
+    "static/js/2.0bbf8f6b.chunk.js": "/Hero-Search-Comic/static/js/2.0bbf8f6b.chunk.js",
+    "static/js/2.0bbf8f6b.chunk.js.map": "/Hero-Search-Comic/static/js/2.0bbf8f6b.chunk.js.map",
+    "index.html": "/Hero-Search-Comic/index.html",
+    "precache-manifest.871573fce51ccc53aeb92fb83c228c99.js": "/Hero-Search-Comic/precache-manifest.871573fce51ccc53aeb92fb83c228c99.js",
+    "service-worker.js": "/Hero-Search-Comic/service-worker.js",
+    "static/js/2.0bbf8f6b.chunk.js.LICENSE.txt": "/Hero-Search-Comic/static/js/2.0bbf8f6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ade89721.js",
+    "static/js/2.0bbf8f6b.chunk.js",
+    "static/js/main.43b30f8d.chunk.js"
+  ]
+}
